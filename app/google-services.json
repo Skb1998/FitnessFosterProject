@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595932108153",
+    "project_id": "fitnessfoster-b2a0c",
+    "storage_bucket": "fitnessfoster-b2a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595932108153:android:9cc8953a1398b1a9904ba8",
+        "android_client_info": {
+          "package_name": "com.example.fitnessfoster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595932108153-iahlkafoi426qtt8sa9hfcdnt2jmrh68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi6PX6Ir58SxEd3LZVa1WMDbqnzvMVSso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595932108153-iahlkafoi426qtt8sa9hfcdnt2jmrh68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
